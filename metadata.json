@@ -1,0 +1,8 @@
+{
+  "name": "PayKool 信用卡 | 迎新優惠與靈活自主分期試算",
+  "description": "PayKool 信用卡官方網站，為香港主板上市公司 K Cash Limited（港股代號：2483.HK）旗下嶄新科技金融旗艦品牌。提供 Visa Platinum 卡與 Prop Card（業主專屬卡）、3/4/5 個月自主免息分期、現金分期套現及免費 TU 智能信貸評估報告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
